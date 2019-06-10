@@ -1,6 +1,8 @@
 # Engineering33
 
-Sanchez adeola 
-hello
-
-
+##Scrum Events - Ceremonies
+-Sprint
+-Sprint Planning
+-Daily Scrum
+-Sprint Reviews
+-Sprint Retrospective
