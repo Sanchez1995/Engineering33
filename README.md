@@ -25,8 +25,10 @@ Agile software development values
 
 
 ### Scrum Events - Ceremonies
-- Sprints are a short, time-boxed series of iterations that breaks down big, complex projects into smaller, manageable sections.
+- Sprints are a short, time-boxed series of iterations that breaks down big, complex projects into smaller tasks. This creates manageable sections allowing teams to ship high-quality work faster and more frequently, and gives them more flexibility to adapt to change.
 - Sprint Planning
 - Daily Scrum/Stand-Up
 - Sprint Reviews
 - Sprint Retrospective
+
+
