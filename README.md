@@ -1,13 +1,4 @@
-﻿# Engineering33
-
-<<<<<<< HEAD
-### Scrum Events - Ceremonies
-- Sprints are a short, time-boxed series of iterations that breaks down big, complex projects into smaller, manageable sections.
-- Sprint Planning
-- Daily Scrum/Stand-Up
-- Sprint Reviews
-- Sprint Retrospective
-=======
+# Engineering33
 
 Agile software development values
 
@@ -31,4 +22,11 @@ Agile software development values
 10) Simplicity—the art of maximizing the amount of work not done—is essential
 11) Best architectures, requirements, and designs emerge from self-organizing teams
 12) Regularly, the team reflects on how to become more effective, and adjusts accordingly
->>>>>>> dev
+
+
+### Scrum Events - Ceremonies
+- Sprints are a short, time-boxed series of iterations that breaks down big, complex projects into smaller, manageable sections.
+- Sprint Planning
+- Daily Scrum/Stand-Up
+- Sprint Reviews
+- Sprint Retrospective
