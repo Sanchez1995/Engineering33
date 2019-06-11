@@ -76,27 +76,6 @@ status
 •	A single iteration would not give a clear picture of the 
 process.
 
-Product Vision
-	The product vision is a concise overview of the long term goal of the product.
-	It should be short and easy to memorise and provides direction to the scrum team.
-Sprint Goal
-	Like the product vision, the sprint goal is concise and easy to remember.
-	It outlines the objective of the current sprint and guides the development team on why they are building the product increment.
-Product Backlog
-	The product backlog lists all the requirements of the product.
-	It is maintained by the product owner, and can be altered over the course of the project to reflect changes in market conditions, technology, e.t.c.
-Sprint Backlog
-	A subset of the product backlog, the sprint backlog outlines all the requirements from the product backlog that are expected to be completed in the current sprint.
-	Once created the sprint backlog can only be changed by the development team.
-Definition of Done
-	Although the product backlog has its own acceptance criteria that can be used to assess the completeness of the project, some criteria will apply to multiple requirements from the backlog.
-	The definition of done is a more concise overview of what needs to be accomplished before the project can be finalised, and may include tests the product must pass.
-Burn-Down Chart
-	The burndown chart is a graph that measures the daily progress of a sprint against the expected progress (usually linear).
-	It lets the team know if they are on track and helps them identify if the sprint goals are not realistically acheivable and some should be moved back to the product backlog.
-Product Increment
-	The product increment is the state of the product at the end of a sprint.
-	It must always be in a useable condition, meaning it is always possible to release a 'lighter' version of the product at the end of any sprint.
 
 SCRUM artifacts
 Product Vision
