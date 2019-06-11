@@ -78,10 +78,13 @@ process.
 
 
 SCRUM artifacts
+
 Product Vision
+
 	The product vision is a concise overview of the long term goal of the product.
 	It should be short and easy to memorise and provides direction to the scrum team.
 Sprint Goal
+
 	Like the product vision, the sprint goal is concise and easy to remember.
 	It outlines the objective of the current sprint and guides the development team on why they are building the product increment.
 Product Backlog
