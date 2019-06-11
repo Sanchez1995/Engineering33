@@ -1,4 +1,4 @@
-# Engineering33
+﻿# Engineering33
 
 Agile software development values
 
@@ -65,6 +65,7 @@ The Scrum framework:
   · As the next sprint begins, the team chooses another chunk of the product backlog and begins working again.
 
 The cycle repeats until enough items in the product backlog have been completed, the budget is depleted, or a deadline arrives. Which of these milestones marks the end of the work is entirely specific to the project. No matter which impetus stops work, Scrum ensures that the most valuable work has been completed when the project ends.
+
 Scrum vs Agile
 
 Agile – is a methodology based on an iterative and incremental approach.
