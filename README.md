@@ -24,24 +24,24 @@ Agile software development values
 12) Regularly, the team reflects on how to become more effective, and adjusts accordingly
 
 
-### Scrum Events - Ceremonies
+#### Scrum Events - Ceremonies
 - **Sprints are a short** is a time-boxed series of iterations that breaks down big, complex projects into smaller tasks. This creates manageable sections allowing teams to ship high-quality work faster and more frequently, and gives them more flexibility to adapt to change.
 
 - **Sprint Planning** is to define what can be delivered in a sprint and how it will be done. It
 is the first thing at the start of the sprint and with the collaboration of the entire team.
 
 - **Daily Scrum/Stand-Up** is a short 10 - 15 mins meeting that keeps the team informed, connected, and calibrated throughout the project. It enforces 'we' to keep everyone aware of the team’s landscape and progress. Each member of the team is required to stand for the meeting and cover 3 main areas:-
--- What did I work on yesterday?
--- What am I working on today?
--- What issues are/will preventing me?
+  - What did I work on yesterday?
+  - What am I working on today?
+  - What issues are/will preventing me?
 
 - **Sprint Reviews** is demonstrating the work that the team has done for that iteration (Sprint). It’s a time to ask questions, try new features, and give feedback.
 
 - **Sprint Retrospective** takes place after the Sprint Review and before the next Sprint Planning. It is for the team to reflect on what happened to improve the future Sprint.
 During the Sprint Retrospective, the team discusses:-
--- What went well in the Sprint
--- What could be improved
--- What will we commit to improve in the next Sprint
+  - What went well in the Sprint
+  - What could be improved
+  - What will we commit to improve in the next Sprint
 
 
 What is scrum?
